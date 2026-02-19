@@ -1,4 +1,4 @@
-Data Analysis Portfolio
+### Data Analysis Portfolio
 ***
 
 Ausgewählte Projekte im Bereich Datenanalyse mit Fokus auf Datenaufbereitung, Exploration und Reporting.
@@ -6,7 +6,7 @@ Ausgewählte Projekte im Bereich Datenanalyse mit Fokus auf Datenaufbereitung, E
 Betriebswirtschaftlicher Hintergrund kombiniert mit analytischem Denken und praktischer Erfahrung in Python, SQL, Excel und Power BI.
 ***
 
-Tech Stack
+### Tech Stack
 
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -16,15 +16,22 @@ Power BI
 Grundlagen in Statistik und Machine Learning
 ***
 
-Projekte
+### Projekte
 
-NYC Taxi Data Analysis
-Explorative Analyse von Taxi-Daten.
-Datenbereinigung • Trendanalyse • Umsatz-Insights
+### NYC Taxi Data Analysis
+Explorative Datenanalyse von Taxifahrdaten.  
+Datenbereinigung • Trendanalyse • Umsatz-Insights.
+
+[View project](https://github.com/yourusername/nyc-taxi-analysis)
+
+### Shop Sales Analysis
+Analyse der Einzelhandelsumsatzdaten.   
+
+[View project](https://github.com/NKotykova/Shop-Sales-Analysis)
 ***
 Weitere Projekte folgen.
 ***
-Kontakt
+### Kontakt
 
 LinkedIn: www.linkedin.com/in/nadiia-kotykova
 ***
