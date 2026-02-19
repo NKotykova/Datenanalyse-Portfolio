@@ -1,5 +1,5 @@
 ***
-### Data Analysis Portfolio
+### Datenanalyse-Portfolio
 ***
 Ausgewählte Projekte im Bereich Datenanalyse mit Fokus auf Datenaufbereitung, Exploration und Reporting.
 
