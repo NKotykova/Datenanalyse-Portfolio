@@ -23,7 +23,7 @@ Grundlagen in Statistik und Machine Learning
 ### 1. NYC Taxi Data Analysis
 Explorative Datenanalyse von Taxifahrdaten.  
 Datenbereinigung • Trendanalyse • Umsatz-Insights.  
-[Zum Projekt](https://github.com/yourusername/nyc-taxi-analysis)
+[Zum Projekt](https://github.com/NKotykova/NYC-Taxi-Data-Analysis)
 
 
 ### 2. Shop Sales Analysis
