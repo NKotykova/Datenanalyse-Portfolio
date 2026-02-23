@@ -31,16 +31,6 @@ Grafische Anwendung zur Schätzung des Immobilienwertes in Deutschland auf Basis
 [Zum Projekt](https://github.com/NKotykova/Immobilienpreis_rechner)  
 
 
-### 3.   
-
-
-### 4.  
-
-
-### 5.  
-
-
-### 6. 
 
 
 
