@@ -28,7 +28,23 @@ Datenbereinigung • Trendanalyse • Umsatz-Insights.
 
 ### 2. Immobilienpreis rechner
 Grafische Anwendung zur Schätzung des Immobilienwertes in Deutschland auf Basis von 10 Eingabeparametern.   
-[Zum Projekt](https://github.com/NKotykova/Immobilienpreis_rechner)
+[Zum Projekt](https://github.com/NKotykova/Immobilienpreis_rechner)  
+
+
+### 3.   
+
+
+### 4.  
+
+
+### 5.  
+
+
+### 6. 
+
+
+
+
 
 
 
