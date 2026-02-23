@@ -36,7 +36,7 @@ Fiktives Lehrprojekt zur Anwendung klassischer Business-Analyse-Methoden anhand 
 **Methoden:** SWOT · Kosten-Nutzen-Analyse · 5-Why · MoSCoW · Risikomatrix · MVP · Gantt  
 [Zum Projekt](https://github.com/NKotykova/Business-Analyse)
 
-### 4. Shop Daten Analyse – El Puente
+### 4. Shop Daten Analyse
 Verkaufsanalyse eines Fair-Trade-Dienstleisters für das Jahr 2021 (Deutschland & Europa, 3 Produkte).  
 **Technologien:** Python · pandas · matplotlib · seaborn · PowerPoint  
 [Zum Projekt](https://github.com/NKotykova/Shop_analyse)
