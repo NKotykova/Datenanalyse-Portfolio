@@ -26,9 +26,9 @@ Datenbereinigung • Trendanalyse • Umsatz-Insights.
 [Zum Projekt](https://github.com/NKotykova/NYC-Taxi-Data-Analysis)
 
 
-### 2. Shop Sales Analysis
-Analyse der Einzelhandelsumsatzdaten.   
-[Zum Projekt](https://github.com/NKotykova/Shop-Sales-Analysis)
+### 2. Immobilienpreis rechner
+Grafische Anwendung zur Schätzung des Immobilienwertes in Deutschland auf Basis von 10 Eingabeparametern.   
+[Zum Projekt](https://github.com/NKotykova/Immobilienpreis_rechner)
 
 
 
