@@ -31,6 +31,11 @@ Grafische Anwendung zur Schätzung des Immobilienwertes in Deutschland auf Basis
 [Zum Projekt](https://github.com/NKotykova/Immobilienpreis_rechner)  
 
 
+### 3. Business Analyse
+Fiktives Lehrprojekt zur Anwendung von Business-Analyse-Methoden im Restaurantkontext.   
+[Zum Projekt](https://github.com/NKotykova/Business-Analyse)
+
+
 
 
 
