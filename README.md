@@ -39,7 +39,12 @@ Fiktives Lehrprojekt zur Anwendung klassischer Business-Analyse-Methoden anhand 
 ### 4. Shop Daten Analyse
 Verkaufsanalyse eines Fair-Trade-Dienstleisters für das Jahr 2021 (Deutschland & Europa, 3 Produkte).  
 **Technologien:** Python · pandas · matplotlib · seaborn · PowerPoint  
-[Zum Projekt](https://github.com/NKotykova/Shop_analyse)
+[Zum Projekt](https://github.com/NKotykova/Shop_analyse)  
+
+### 5. Datenbankprojekt — Aufbau einer PostgreSQL-Datenbank
+Normalisierung einer Excel-Tabelle und Aufbau einer relationalen Datenbank mit Rollen, Sicherheits-Views und Zugriffsprotokollierung. Erweiterte Datenanalyse mit SQL und Python.  
+**Technologien:** PostgreSQL · DBeaver · pgAdmin · Python · pandas · SQLAlchemy · Jupyter  
+[Zum Projekt](https://github.com/NKotykova/Datenbankprojekt)
 
 
 
