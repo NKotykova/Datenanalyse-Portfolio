@@ -46,20 +46,15 @@ Normalisierung einer Excel-Tabelle und Aufbau einer relationalen Datenbank mit R
 **Technologien:** PostgreSQL · DBeaver · pgAdmin · Python · pandas · SQLAlchemy · Jupyter  
 [Zum Projekt](https://github.com/NKotykova/Datenbankprojekt)
 
-### 5. Datenbankprojekt — Aufbau einer PostgreSQL-Datenbank
-Normalisierung einer Excel-Tabelle und Aufbau einer relationalen Datenbank mit Rollen, Sicherheits-Views und Zugriffsprotokollierung. Erweiterte Datenanalyse mit SQL und Python.  
-**Technologien:** PostgreSQL · DBeaver · pgAdmin · Python · pandas · SQLAlchemy · Jupyter  
-[Zum Projekt](https://github.com/NKotykova/Datenbankprojekt)  
+### 6. API-Projekt - Dog Breed Filter
+Abruf und Filterung von Hunderassen über eine öffentliche API. Konfiguration mit .env-Datei, Ergebnisse werden lokal als CSV gespeichert. Klare Trennung von Konfiguration und Logik.
+**Technologien:** Python · requests · pandas · python-dotenv · scipy
+[Zum Projekt](https://github.com/NKotykova/Dog-Api-Project)  
 
-6. Datenvisualisierung — World Happiness Dashboard
+### 7. Datenvisualisierung — World Happiness Dashboard
 Analyse des World Happiness Reports 2018 und 2019. Interaktives Dashboard mit Weltkarte, Korrelationsmatrix, Scatter- und Bubble-Charts sowie Ranking mit Dumbbell- und Radar-Charts. Statistische Analyse mit OLS, VIF und PCA.
 **Technologien:** Python · Streamlit · Plotly · pandas · NumPy · SciPy
-[Zum Projekt]((https://github.com/NKotykova/Happiness-App) 
-
-
-
-
-
+[Zum Projekt](https://github.com/NKotykova/Happiness-App) 
 
 
 
