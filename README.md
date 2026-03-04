@@ -49,7 +49,7 @@ Normalisierung einer Excel-Tabelle und Aufbau einer relationalen Datenbank mit R
 
 ### 6. API-Projekt - Dog Breed Filter
 Abruf und Filterung von Hunderassen über eine öffentliche API. Konfiguration mit .env-Datei, Ergebnisse werden lokal als CSV gespeichert. Klare Trennung von Konfiguration und Logik.
-**Technologien:** Python · requests · pandas · python-dotenv · scipy
+**Technologien:** Python · requests · pandas · python-dotenv · scipy  
 [Zum Projekt](https://github.com/NKotykova/Dog-Api-Project)  
 
 ### 7. Datenvisualisierung — World Happiness Dashboard
@@ -59,7 +59,7 @@ Analyse des World Happiness Reports 2018 und 2019. Interaktives Dashboard mit We
 
 ### 8. Dashboard — Mental-Health Nutzungsbereitschaft
 Vorhersage der Nutzungsbereitschaft von arbeitgeberfinanzierten Mental-Health-Angeboten auf Basis einer Umfrage mit 567 Teilnehmenden (Deutschland). Binäre Klassifikation mit 5 ML-Modellen, explorative Datenanalyse sowie Zielgruppenprofilerstellung. Interaktives Dashboard mit Bookmark-Navigation, DAX-Kennzahlen und Zielklassen-Slicer.
-**Technologien:** KNIME 5.8.0 · Power BI · Excel
+**Technologien:** KNIME 5.8.0 · Power BI · Excel  
 [Zum Projekt](https://github.com/NKotykova/MentalHealth-Nutzungsbereitschaft) 
 
 
