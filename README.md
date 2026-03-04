@@ -12,6 +12,7 @@ Betriebswirtschaftlicher Hintergrund kombiniert mit analytischem Denken und prak
 Python (Pandas, NumPy, Matplotlib, Seaborn)  
 SQL  
 Excel (Power Query, Pivot Tables)  
+KNIME
 Power BI  
 Grundlagen in Statistik und Machine Learning
 
@@ -54,7 +55,12 @@ Abruf und Filterung von Hunderassen über eine öffentliche API. Konfiguration m
 ### 7. Datenvisualisierung — World Happiness Dashboard
 Analyse des World Happiness Reports 2018 und 2019. Interaktives Dashboard mit Weltkarte, Korrelationsmatrix, Scatter- und Bubble-Charts sowie Ranking mit Dumbbell- und Radar-Charts. Statistische Analyse mit OLS, VIF und PCA.
 **Technologien:** Python · Streamlit · Plotly · pandas · NumPy · SciPy
-[Zum Projekt](https://github.com/NKotykova/Happiness-App) 
+[Zum Projekt](https://github.com/NKotykova/Happiness-App)  
+
+### 8. Dashboard — Mental-Health Nutzungsbereitschaft
+Vorhersage der Nutzungsbereitschaft von arbeitgeberfinanzierten Mental-Health-Angeboten auf Basis einer Umfrage mit 567 Teilnehmenden (Deutschland). Binäre Klassifikation mit 5 ML-Modellen, explorative Datenanalyse sowie Zielgruppenprofilerstellung. Interaktives Dashboard mit Bookmark-Navigation, DAX-Kennzahlen und Zielklassen-Slicer.
+**Technologien:** KNIME 5.8.0 · Power BI · Excel
+[Zum Projekt](https://github.com/NKotykova/MentalHealth-Nutzungsbereitschaft) 
 
 
 
