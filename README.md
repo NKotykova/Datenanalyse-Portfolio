@@ -54,7 +54,7 @@ Abruf und Filterung von Hunderassen über eine öffentliche API. Konfiguration m
 
 ### 7. Datenvisualisierung — World Happiness Dashboard
 Analyse des World Happiness Reports 2018 und 2019. Interaktives Dashboard mit Weltkarte, Korrelationsmatrix, Scatter- und Bubble-Charts sowie Ranking mit Dumbbell- und Radar-Charts. Statistische Analyse mit OLS, VIF und PCA.
-**Technologien:** Python · Streamlit · Plotly · pandas · NumPy · SciPy
+**Technologien:** Python · Streamlit · Plotly · pandas · NumPy · SciPy  
 [Zum Projekt](https://github.com/NKotykova/Happiness-App)  
 
 ### 8. Dashboard — Mental-Health Nutzungsbereitschaft
