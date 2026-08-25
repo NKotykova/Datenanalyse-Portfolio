@@ -32,6 +32,7 @@ Analyse des World Happiness Reports 2018 und 2019. Interaktives Dashboard mit We
 **Technologien:** Python · Streamlit · Plotly · pandas · NumPy · SciPy  
 [Zum Projekt](https://github.com/NKotykova/Happiness-App) 
 
+
 ### Clusteranalyse von ~2.300 deutschen Krankenhäusern  - Krankenhaus-clustering
 auf Basis strukturierter Qualitätsdaten aus dem Gesundheitssektor (417.000 Zeilen Rohdaten). Krankenhäuser werden anhand bereinigter und fachbereichsnormalisierter Qualitätskennzahlen in drei Gruppen eingeteilt: über, im und unter Bundesdurchschnitt
 **Technologien:** Python · pandas · NumPy · scikit-learn · Streamlit · Plotly
